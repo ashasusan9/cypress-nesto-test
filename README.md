@@ -1,4 +1,4 @@
-# TSteps to Run the tests locally
+# Steps to Run the tests locally
 
 1. Clone the repo to your local machine
 2. From the root folder npm install to install all dependencies
