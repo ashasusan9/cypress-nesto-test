@@ -8,7 +8,7 @@
 
 (This repo is forked from cypress-kitchen-sink app and modified to use nesto base url )
 
-You will see result like below screneshot 
+You will see result like below screenshot 
 
 <img width="1366" alt="Screen Shot 2022-01-26 at 10 00 51 AM" src="https://user-images.githubusercontent.com/98295448/151187837-aec24f1c-dd16-4aa6-937f-525adf75064a.png">
 
